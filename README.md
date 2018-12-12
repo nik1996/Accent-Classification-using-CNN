@@ -2,6 +2,8 @@
 
 This repository contains the python code to predict whether the speaker is a native English speaker or not. The dataset used can be found at : [Dataset](https://www.kaggle.com/rtatman/speech-accent-archive)
 
+To run the script in console : python model.py speakers_all.csv
+
 ### Preprocessing
 The preprocessing.py script performs preprocessing on the dataset. The datset consists of large number of recordings of speakers of different languages. The given model only works on english and arabian recordings. The model can be extended to more languages by modifying the script and including recordings of other languages in the filtered dataset. 
 
