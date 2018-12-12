@@ -1,0 +1,171 @@
+,age,filename,native_language,sex,speakerid,country
+363,42.0,english1,english,male,61,usa
+364,35.0,english10,english,female,62,usa
+365,23.0,english100,english,female,63,usa
+366,18.0,english101,english,female,64,canada
+367,22.0,english102,english,male,65,usa
+368,21.0,english103,english,male,66,usa
+369,18.0,english104,english,female,67,usa
+370,57.0,english105,english,male,407,canada
+371,39.0,english106,english,female,408,usa
+372,19.0,english107,english,male,416,usa
+373,21.0,english108,english,male,419,uk
+374,26.0,english109,english,female,420,usa
+375,35.0,english11,english,female,68,uk
+376,21.0,english110,english,male,421,uk
+377,21.0,english111,english,male,426,india
+378,21.0,english112,english,male,427,us virgin islands
+379,31.0,english113,english,male,439,uk
+380,38.0,english114,english,female,442,usa
+381,31.0,english115,english,male,443,uk
+382,56.0,english116,english,male,444,usa
+383,60.0,english117,english,female,445,usa
+384,19.0,english118,english,male,446,usa
+385,32.0,english119,english,female,455,canada
+386,71.0,english12,english,female,69,uk
+387,65.0,english120,english,male,456,canada
+388,21.0,english121,english,male,465,usa
+389,20.0,english122,english,female,468,malaysia
+390,28.0,english123,english,female,469,usa
+391,38.0,english124,english,male,480,usa
+392,28.0,english125,english,male,485,australia
+393,34.0,english126,english,female,487,usa
+394,39.0,english127,english,male,489,usa
+395,20.0,english128,english,female,490,usa
+396,25.0,english129,english,male,492,uk
+397,69.0,english13,english,male,70,uk
+398,32.0,english130,english,male,496,south africa
+399,23.0,english131,english,male,497,usa
+400,18.0,english132,english,female,503,canada
+401,36.0,english133,english,female,504,usa
+402,22.0,english134,english,female,506,uk
+403,22.0,english135,english,male,507,usa
+404,25.0,english136,english,male,508,canada
+405,26.0,english137,english,male,509,usa
+406,25.0,english138,english,female,510,usa
+407,20.0,english139,english,male,511,usa
+408,40.0,english14,english,male,71,uk
+409,43.0,english140,english,male,515,philippines
+410,19.0,english141,english,male,516,uk
+411,19.0,english142,english,male,517,usa
+412,42.0,english143,english,male,518,usa
+413,24.0,english144,english,male,519,canada
+414,18.0,english145,english,male,521,uk
+415,22.0,english146,english,male,522,usa
+416,40.0,english147,english,female,523,usa
+417,31.0,english148,english,male,525,australia
+418,18.0,english149,english,male,526,usa
+419,7.0,english15,english,female,72,usa
+420,31.0,english150,english,male,527,usa
+421,18.0,english151,english,male,528,usa
+422,18.0,english152,english,male,529,australia
+423,35.0,english153,english,male,533,australia
+424,28.0,english154,english,male,534,canada
+425,35.0,english155,english,male,535,usa
+426,33.0,english156,english,male,536,ireland
+427,35.0,english157,english,male,538,usa
+428,18.0,english158,english,female,540,usa
+429,18.0,english159,english,male,541,canada
+430,21.0,english16,english,male,73,usa
+431,21.0,english160,english,female,542,usa
+432,75.0,english161,english,female,546,usa
+433,41.0,english162,english,female,548,usa
+434,41.0,english163,english,male,547,usa
+435,38.0,english164,english,male,549,uk
+436,43.0,english165,english,female,550,usa
+437,18.0,english166,english,male,551,usa
+438,43.0,english167,english,male,552,usa
+439,40.0,english168,english,male,554,usa
+440,18.0,english169,english,male,555,usa
+441,79.0,english17,english,male,74,usa
+442,50.0,english170,english,female,556,usa
+443,21.0,english171,english,male,563,usa
+444,49.0,english172,english,male,564,jamaica
+445,19.0,english173,english,male,567,usa
+446,30.0,english174,english,female,568,malaysia
+447,24.0,english175,english,male,572,usa
+448,18.0,english176,english,female,573,usa
+449,23.0,english177,english,female,574,usa
+450,30.0,english178,english,male,583,usa
+451,57.0,english179,english,male,584,usa
+452,39.0,english18,english,female,75,usa
+453,20.0,english180,english,male,585,usa
+454,68.0,english181,english,male,586,usa
+455,50.0,english182,english,male,590,usa
+456,55.0,english183,english,female,595,guyana
+457,18.0,english184,english,female,597,usa
+458,38.0,english185,english,male,604,uk
+459,39.0,english186,english,female,605,usa
+460,42.0,english187,english,female,606,usa
+461,35.0,english188,english,male,611,uk
+462,19.0,english189,english,male,617,usa
+70,38.0,arabic1,arabic,female,11,saudi arabia
+71,26.0,arabic10,arabic,male,12,egypt
+72,40.0,arabic100,arabic,female,2159,lebanon
+73,21.0,arabic101,arabic,male,2160,qatar
+74,22.0,arabic102,arabic,male,2161,saudi arabia
+75,30.0,arabic11,arabic,female,13,tunisia
+76,32.0,arabic12,arabic,male,14,iraq
+77,25.0,arabic13,arabic,male,15,lebanon
+78,47.0,arabic14,arabic,male,428,jordan
+79,40.0,arabic15,arabic,male,437,tunisia
+80,22.0,arabic16,arabic,male,471,morocco
+81,35.0,arabic17,arabic,male,512,morocco
+82,18.0,arabic18,arabic,male,539,kuwait
+83,43.0,arabic19,arabic,male,625,morocco
+84,18.0,arabic2,arabic,male,16,syria
+85,36.0,arabic20,arabic,male,643,lebanon
+86,46.0,arabic21,arabic,female,670,lebanon
+87,23.0,arabic22,arabic,female,920,united arab emirates
+88,42.0,arabic23,arabic,male,927,egypt
+89,40.0,arabic24,arabic,male,970,egypt
+90,38.0,arabic25,arabic,male,1011,israel (occupied territory)
+91,43.0,arabic26,arabic,female,1012,jordan
+92,70.0,arabic27,arabic,male,1013,israel
+93,30.0,arabic28,arabic,male,1115,united arab emirates
+94,19.0,arabic29,arabic,male,1116,qatar
+95,24.0,arabic3,arabic,male,17,qatar
+96,19.0,arabic30,arabic,female,1133,saudi arabia
+97,47.0,arabic31,arabic,female,1181,iraq
+98,42.0,arabic32,arabic,male,1203,iraq
+99,28.0,arabic33,arabic,female,1204,iraq
+100,34.0,arabic34,arabic,female,1253,kuwait
+101,56.0,arabic35,arabic,male,1391,saudi arabia
+102,36.0,arabic36,arabic,male,1392,saudi arabia
+103,18.0,arabic37,arabic,male,1393,saudi arabia
+104,19.0,arabic38,arabic,female,1394,usa
+105,22.0,arabic39,arabic,male,1405,saudi arabia
+106,19.0,arabic4,arabic,male,18,united arab emirates
+107,19.0,arabic40,arabic,male,1420,saudi arabia
+108,25.0,arabic41,arabic,male,1421,saudi arabia
+109,21.0,arabic42,arabic,male,1422,saudi arabia
+110,29.0,arabic43,arabic,female,1426,lebanon
+111,29.0,arabic44,arabic,female,1455,saudi arabia
+112,32.0,arabic45,arabic,female,1456,usa
+113,28.0,arabic46,arabic,male,1457,saudi arabia
+114,39.0,arabic47,arabic,male,1458,saudi arabia
+115,29.0,arabic48,arabic,male,1459,saudi arabia
+116,26.0,arabic49,arabic,male,1460,saudi arabia
+117,19.0,arabic5,arabic,female,19,morocco
+118,36.0,arabic50,arabic,male,1461,saudi arabia
+119,23.0,arabic51,arabic,male,1486,saudi arabia
+120,21.0,arabic52,arabic,female,1487,saudi arabia
+121,36.0,arabic53,arabic,male,1526,morocco
+122,22.0,arabic54,arabic,male,1565,iraq
+123,70.0,arabic55,arabic,male,1569,lebanon
+124,43.0,arabic56,arabic,male,1677,algeria
+125,28.0,arabic57,arabic,female,1699,lebanon
+126,34.0,arabic58,arabic,male,1700,iraq
+127,55.0,arabic59,arabic,male,1702,jordan
+128,21.0,arabic6,arabic,male,20,yemen
+129,60.0,arabic60,arabic,male,1711,egypt
+130,20.0,arabic61,arabic,male,1753,bahrain
+131,19.0,arabic62,arabic,male,1768,saudi arabia
+132,28.0,arabic63,arabic,female,1769,libya
+133,23.0,arabic64,arabic,male,1777,saudi arabia
+134,32.0,arabic65,arabic,female,1778,oman
+135,50.0,arabic66,arabic,male,1784,saudi arabia
+136,43.0,arabic67,arabic,male,1785,iraq
+137,20.0,arabic68,arabic,male,1805,uk
+138,55.0,arabic69,arabic,female,1810,sudan
+139,18.0,arabic7,arabic,female,21,morocco
