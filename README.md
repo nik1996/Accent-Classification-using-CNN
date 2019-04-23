@@ -1,4 +1,4 @@
-# Accent-Classification-using-CNN
+# Native-Language-Classification-using-CNN
 
 This repository contains the python code to predict whether the speaker is a native English speaker or not. The dataset used can be found at : [Dataset](https://www.kaggle.com/rtatman/speech-accent-archive)
 
